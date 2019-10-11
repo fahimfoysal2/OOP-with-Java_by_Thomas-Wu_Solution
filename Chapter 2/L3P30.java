@@ -1,6 +1,9 @@
 /**
  * Book: Introduction to OOP with Java - Thomas Wu
  * Chapter 2 - Problem L3 P30
+ * Using 'Galapagos-Turtle' Class Draw A Star
+ * Angle Method
+ * 
  * @author Fahim Foysal
  */
 

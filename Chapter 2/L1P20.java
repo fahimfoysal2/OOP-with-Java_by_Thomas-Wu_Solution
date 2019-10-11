@@ -1,6 +1,7 @@
 /**
  * Book: Introduction to OOP with Java - Thomas Wu
  * Chapter 2 - Problem L1 P20
+ * Print Date In "01 January 1971" format
  * 
  * @author Fahim Foysal
  */
