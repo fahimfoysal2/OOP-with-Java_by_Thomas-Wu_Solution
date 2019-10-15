@@ -1,6 +1,7 @@
 /**
  * Book: Introduction to OOP with Java - Thomas Wu
  * Chapter 2 - Problem L2 P24
+ * Print The Middle Character From A Word
  * 
  * @author Fahim Foysal
  */

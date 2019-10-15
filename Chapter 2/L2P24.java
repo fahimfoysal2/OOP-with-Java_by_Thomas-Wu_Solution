@@ -1,6 +1,7 @@
 /**
  * Book: Introduction to OOP with Java - Thomas Wu
  * Chapter 2 - Problem L2 P24
+ *Jframe with fixed title,dimension & Position
  * 
  * @author Fahim Foysal
  */
